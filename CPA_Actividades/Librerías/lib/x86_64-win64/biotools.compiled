@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.2.0\bin\x86_64-win64\fpc.exe" Date="1381336890"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiC:\Users\raulm\Desktop\CPA_Raúl_Miñán_Campos\2 - Librerías\lib\x86_64-win64&quot; -FuC:\lazarus\lcl\units\x86_64-win64\win32 -FuC:\lazarus\lcl\units\x86_64-win64 -FuC:\lazarus\components\lazutils\lib\x86_64-win64 -FuC:\lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\raulm\Desktop\CPA_Raúl_Miñán_Campos\2 - Librerías\&quot; &quot;-FUC:\Users\raulm\Desktop\CPA_Raúl_Miñán_Campos\2 - Librerías\lib\x86_64-win64\&quot; &quot;-FEC:\Users\raulm\Desktop\CPA_Raúl_Miñán_Campos\2 - Librerías\&quot; &quot;-oC:\Users\raulm\Desktop\CPA_Raúl_Miñán_Campos\2 - Librerías\biotools.exe&quot; -dLCL -dLCLwin32 biotools.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>

@@ -1,0 +1,32 @@
+object Form1: TForm1
+  Left = 487
+  Height = 697
+  Top = 155
+  Width = 888
+  Caption = 'Form1'
+  ClientHeight = 697
+  ClientWidth = 888
+  LCLVersion = '2.0.12.0'
+  object Image1: TImage
+    Left = 32
+    Height = 400
+    Top = 24
+    Width = 400
+  end
+  object Image2: TImage
+    Left = 456
+    Height = 400
+    Top = 24
+    Width = 400
+  end
+  object Memo1: TMemo
+    Left = 34
+    Height = 215
+    Top = 433
+    Width = 400
+    Lines.Strings = (
+      'Memo1'
+    )
+    TabOrder = 0
+  end
+end

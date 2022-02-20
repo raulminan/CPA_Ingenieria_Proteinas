@@ -1,0 +1,87 @@
+object Form1: TForm1
+  Left = 1204
+  Height = 724
+  Top = 173
+  Width = 438
+  Caption = 'Form1'
+  ClientHeight = 724
+  ClientWidth = 438
+  LCLVersion = '2.0.12.0'
+  object Edit1: TEdit
+    Left = 24
+    Height = 23
+    Top = 16
+    Width = 296
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 320
+    Height = 23
+    Top = 16
+    Width = 83
+    Caption = 'Cargar fichero'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Memo1: TMemo
+    Left = 24
+    Height = 288
+    Top = 48
+    Width = 377
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -12
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    ParentFont = False
+    ScrollBars = ssBoth
+    TabOrder = 2
+    WordWrap = False
+  end
+  object Memo2: TMemo
+    Left = 24
+    Height = 232
+    Top = 440
+    Width = 377
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -12
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    Lines.Strings = (
+      ''
+    )
+    ParentFont = False
+    TabOrder = 3
+  end
+  object Label1: TLabel
+    Left = 24
+    Height = 15
+    Top = 344
+    Width = 104
+    Caption = 'Formato detectado:'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 144
+    Height = 1
+    Top = 344
+    Width = 1
+    ParentColor = False
+  end
+  object Button2: TButton
+    Left = 24
+    Height = 25
+    Top = 408
+    Width = 112
+    Caption = 'Extraer Secuencia'
+    OnClick = Button2Click
+    TabOrder = 4
+  end
+  object OpenDialog1: TOpenDialog
+    Left = 360
+    Top = 368
+  end
+end

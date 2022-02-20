@@ -1,0 +1,98 @@
+object Form1: TForm1
+  Left = 437
+  Height = 486
+  Top = 282
+  Width = 1120
+  Caption = 'Form1'
+  ClientHeight = 486
+  ClientWidth = 1120
+  OnCreate = FormCreate
+  LCLVersion = '2.0.12.0'
+  object Image1: TImage
+    Left = 280
+    Height = 400
+    Top = 24
+    Width = 400
+  end
+  object Memo1: TMemo
+    Left = 24
+    Height = 376
+    Top = 48
+    Width = 248
+    Font.CharSet = ANSI_CHARSET
+    Font.Color = clBlack
+    Font.Height = -12
+    Font.Name = 'Courier New'
+    Font.Pitch = fpFixed
+    Font.Quality = fqDraft
+    ParentFont = False
+    ScrollBars = ssBoth
+    TabOrder = 0
+    WordWrap = False
+  end
+  object Image2: TImage
+    Left = 704
+    Height = 400
+    Top = 24
+    Width = 400
+  end
+  object Button1: TButton
+    Left = 224
+    Height = 25
+    Top = 24
+    Width = 48
+    Caption = '>>'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Edit1: TEdit
+    Left = 24
+    Height = 23
+    Top = 24
+    Width = 200
+    TabOrder = 2
+  end
+  object SpinEdit1: TSpinEdit
+    Left = 336
+    Height = 23
+    Top = 440
+    Width = 50
+    MinValue = 1
+    TabOrder = 3
+    Value = 1
+  end
+  object SpinEdit2: TSpinEdit
+    Left = 520
+    Height = 23
+    Top = 440
+    Width = 50
+    MinValue = 1
+    TabOrder = 4
+    Value = 1
+  end
+  object Label1: TLabel
+    Left = 264
+    Height = 15
+    Top = 440
+    Width = 58
+    Caption = 'Calfa inical'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 440
+    Height = 15
+    Top = 440
+    Width = 53
+    Caption = 'Calfa final'
+    ParentColor = False
+  end
+  object Button2: TButton
+    Left = 656
+    Height = 25
+    Top = 438
+    Width = 75
+    Caption = 'Alinear Z'
+    OnClick = Button2Click
+    TabOrder = 5
+  end
+end

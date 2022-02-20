@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="alinear_z.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="58"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <TopLine Value="68"/>
+        <CursorPos X="42" Y="95"/>
+        <UsageCount Value="58"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\2 - Librerías\biotoolkit.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="914"/>
+        <CursorPos Y="919"/>
+        <UsageCount Value="58"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\Actividades\7 WritePDB\calfa_unit1.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="6"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\unidad1_estereodigrama.pas"/>
+        <UnitName Value="Unidad1_estereodigrama"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="74"/>
+        <CursorPos X="58" Y="97"/>
+        <UsageCount Value="6"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="24" HistoryIndex="23">
+      <Position1>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="8" Column="78"/>
+      </Position1>
+      <Position2>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="9" Column="13"/>
+      </Position2>
+      <Position3>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="37" Column="3" TopLine="10"/>
+      </Position3>
+      <Position4>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="36" Column="3" TopLine="9"/>
+      </Position4>
+      <Position5>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="37" Column="3" TopLine="9"/>
+      </Position5>
+      <Position6>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="38" Column="3" TopLine="9"/>
+      </Position6>
+      <Position7>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="40" Column="3" TopLine="9"/>
+      </Position7>
+      <Position8>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="41" Column="23" TopLine="13"/>
+      </Position8>
+      <Position9>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="48" Column="79" TopLine="20"/>
+      </Position9>
+      <Position10>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="49" Column="79" TopLine="20"/>
+      </Position10>
+      <Position11>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="50" Column="79" TopLine="20"/>
+      </Position11>
+      <Position12>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="51" Column="79" TopLine="20"/>
+      </Position12>
+      <Position13>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="52" Column="79" TopLine="21"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\2 - Librerías\biotoolkit.pas"/>
+        <Caret Line="621" Column="33" TopLine="617"/>
+      </Position14>
+      <Position15>
+        <Filename Value="..\2 - Librerías\biotoolkit.pas"/>
+        <Caret Line="620" Column="19" TopLine="608"/>
+      </Position15>
+      <Position16>
+        <Filename Value="..\2 - Librerías\biotoolkit.pas"/>
+        <Caret Line="632" Column="48" TopLine="622"/>
+      </Position16>
+      <Position17>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="67" Column="32" TopLine="53"/>
+      </Position17>
+      <Position18>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="99" Column="67" TopLine="87"/>
+      </Position18>
+      <Position19>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="97" Column="29" TopLine="86"/>
+      </Position19>
+      <Position20>
+        <Filename Value="..\2 - Librerías\biotoolkit.pas"/>
+        <Caret Line="467" TopLine="455"/>
+      </Position20>
+      <Position21>
+        <Filename Value="..\2 - Librerías\biotoolkit.pas"/>
+        <Caret Line="101" Column="57" TopLine="92"/>
+      </Position21>
+      <Position22>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="97" Column="29" TopLine="86"/>
+      </Position22>
+      <Position23>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="98" Column="67" TopLine="87"/>
+      </Position23>
+      <Position24>
+        <Filename Value="alinear_z_unit1.pas"/>
+        <Caret Line="95" Column="42" TopLine="66"/>
+      </Position24>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
